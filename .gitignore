@@ -11,3 +11,6 @@ wheels/
 
 # Sensitive data
 .env
+
+# Test generated files
+calculator/**/*.txt
